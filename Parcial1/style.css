@@ -1,0 +1,13 @@
+#container-nombre {
+    color: brown;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#container-busqueda {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+#noticias-cuadro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
